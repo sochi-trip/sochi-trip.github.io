@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Quercus myrsinifolia</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Dendrarium/Quercus%20myrsinifolia/</jalbum:absolutePath>
+        <item>
+            <title>DSC02268</title>
+            <link>http://sochi-trip.cc/Dendrarium/Quercus%20myrsinifolia/slides/DSC02268.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:10:29 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Dendrarium/Quercus%20myrsinifolia/thumbs/DSC02268.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Dendrarium/Quercus%20myrsinifolia/slides/DSC02268.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 12:02:41 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02268.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02269</title>
+            <link>http://sochi-trip.cc/Dendrarium/Quercus%20myrsinifolia/slides/DSC02269.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:10:29 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Dendrarium/Quercus%20myrsinifolia/thumbs/DSC02269.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Dendrarium/Quercus%20myrsinifolia/slides/DSC02269.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 12:02:47 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02269.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02270</title>
+            <link>http://sochi-trip.cc/Dendrarium/Quercus%20myrsinifolia/slides/DSC02270.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:10:29 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Dendrarium/Quercus%20myrsinifolia/thumbs/DSC02270.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Dendrarium/Quercus%20myrsinifolia/slides/DSC02270.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 12:02:53 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02270.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Arum italicum</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Flora/Arum%20italicum/</jalbum:absolutePath>
+        <item>
+            <title>DSC02576</title>
+            <link>http://sochi-trip.cc/Flora/Arum%20italicum/slides/DSC02576.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:14:08 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Arum%20italicum/thumbs/DSC02576.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Arum%20italicum/slides/DSC02576.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 01 Apr 2018 13:50:23 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02576.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02577</title>
+            <link>http://sochi-trip.cc/Flora/Arum%20italicum/slides/DSC02577.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:14:08 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Arum%20italicum/thumbs/DSC02577.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Arum%20italicum/slides/DSC02577.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 01 Apr 2018 13:50:40 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02577.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02578</title>
+            <link>http://sochi-trip.cc/Flora/Arum%20italicum/slides/DSC02578.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:14:08 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Arum%20italicum/thumbs/DSC02578.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Arum%20italicum/slides/DSC02578.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 01 Apr 2018 13:50:54 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02578.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02579</title>
+            <link>http://sochi-trip.cc/Flora/Arum%20italicum/slides/DSC02579.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:14:08 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Arum%20italicum/thumbs/DSC02579.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Arum%20italicum/slides/DSC02579.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 01 Apr 2018 13:51:04 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02579.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02580</title>
+            <link>http://sochi-trip.cc/Flora/Arum%20italicum/slides/DSC02580.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:14:08 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Arum%20italicum/thumbs/DSC02580.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Arum%20italicum/slides/DSC02580.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 01 Apr 2018 13:51:10 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02580.JPG</guid>
+        </item>
+    </channel>
+</rss>

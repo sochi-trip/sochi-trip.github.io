@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Chicken (Gallus gallus domesticus)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC02287</title>
+            <link>http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/slides/DSC02287.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:11:57 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/thumbs/DSC02287.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/slides/DSC02287.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 12:13:44 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02287.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02289</title>
+            <link>http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/slides/DSC02289.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:11:57 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/thumbs/DSC02289.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/slides/DSC02289.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 12:14:22 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02289.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02290</title>
+            <link>http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/slides/DSC02290.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:11:57 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/thumbs/DSC02290.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/slides/DSC02290.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 12:14:32 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02290.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02290_</title>
+            <link>http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/slides/DSC02290_.jpg</link>
+            <pubDate>Sat, 11 Jan 2020 20:11:57 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/thumbs/DSC02290_.jpg" width="352" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/slides/DSC02290_.jpg" width="1644" height="1680"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 12:14:32 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02290_.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Monochamus urussovi</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Fauna/Monochamus%20urussovi/</jalbum:absolutePath>
+        <item>
+            <title>DSC02685</title>
+            <link>http://sochi-trip.cc/Fauna/Monochamus%20urussovi/slides/DSC02685.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:12:04 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fauna/Monochamus%20urussovi/thumbs/DSC02685.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fauna/Monochamus%20urussovi/slides/DSC02685.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 02 Apr 2018 12:58:05 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02685.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02689</title>
+            <link>http://sochi-trip.cc/Fauna/Monochamus%20urussovi/slides/DSC02689.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:12:04 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fauna/Monochamus%20urussovi/thumbs/DSC02689.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fauna/Monochamus%20urussovi/slides/DSC02689.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 02 Apr 2018 12:58:36 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02689.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02691</title>
+            <link>http://sochi-trip.cc/Fauna/Monochamus%20urussovi/slides/DSC02691.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:12:04 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fauna/Monochamus%20urussovi/thumbs/DSC02691.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fauna/Monochamus%20urussovi/slides/DSC02691.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 02 Apr 2018 12:58:55 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02691.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02694</title>
+            <link>http://sochi-trip.cc/Fauna/Monochamus%20urussovi/slides/DSC02694.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:12:04 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fauna/Monochamus%20urussovi/thumbs/DSC02694.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fauna/Monochamus%20urussovi/slides/DSC02694.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 02 Apr 2018 12:58:36 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02694.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02695</title>
+            <link>http://sochi-trip.cc/Fauna/Monochamus%20urussovi/slides/DSC02695.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:12:04 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fauna/Monochamus%20urussovi/thumbs/DSC02695.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fauna/Monochamus%20urussovi/slides/DSC02695.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Mon, 02 Apr 2018 12:59:21 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02695.JPG</guid>
+        </item>
+    </channel>
+</rss>

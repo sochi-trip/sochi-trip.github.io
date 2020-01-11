@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Pinus wallichiana</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/</jalbum:absolutePath>
+        <item>
+            <title>DSC02134</title>
+            <link>http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/slides/DSC02134.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:10:01 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/thumbs/DSC02134.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/slides/DSC02134.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 10:54:32 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02134.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02135</title>
+            <link>http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/slides/DSC02135.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:10:01 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/thumbs/DSC02135.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/slides/DSC02135.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 10:54:09 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02135.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02136</title>
+            <link>http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/slides/DSC02136.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:10:01 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/thumbs/DSC02136.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/slides/DSC02136.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 10:54:18 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02136.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02137</title>
+            <link>http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/slides/DSC02137.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:10:01 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/thumbs/DSC02137.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/slides/DSC02137.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 10:54:32 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02137.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02138</title>
+            <link>http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/slides/DSC02138.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:10:01 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/thumbs/DSC02138.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/slides/DSC02138.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 10:54:36 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02138.JPG</guid>
+        </item>
+    </channel>
+</rss>

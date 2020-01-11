@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Dendrarium</title>
+   	<link>..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Dendrarium/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Acer%20palmatum/album.rss" title="Acer palmatum" thumbnail="http://sochi-trip.cc/Dendrarium/Acer%20palmatum/thumbs/DSC02152.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Camellia%20japonica/album.rss" title="Camellia japonica" thumbnail="http://sochi-trip.cc/Dendrarium/Camellia%20japonica/thumbs/DSC02075.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Chaenomeles%20x%20vilmoriniana/album.rss" title="Chaenomeles x vilmoriniana" thumbnail="http://sochi-trip.cc/Dendrarium/Chaenomeles%20x%20vilmoriniana/thumbs/DSC02275.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Cryptomeria%20japonica/album.rss" title="Cryptomeria japonica" thumbnail="http://sochi-trip.cc/Dendrarium/Cryptomeria%20japonica/thumbs/DSC02312.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Elaeagnus%20pungens/album.rss" title="Elaeagnus pungens" thumbnail="http://sochi-trip.cc/Dendrarium/Elaeagnus%20pungens/thumbs/DSC02077.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Hippophae%20rhamnoides/album.rss" title="Hippophae rhamnoides" thumbnail="http://sochi-trip.cc/Dendrarium/Hippophae%20rhamnoides/thumbs/DSC02163.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Jasminum%20mesnyi/album.rss" title="Jasminum mesnyi" thumbnail="http://sochi-trip.cc/Dendrarium/Jasminum%20mesnyi/thumbs/DSC02095.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Juniperus%20sabina/album.rss" title="Juniperus sabina" thumbnail="http://sochi-trip.cc/Dendrarium/Juniperus%20sabina/thumbs/DSC02106.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Laurocerasus%20officinalis/album.rss" title="Laurocerasus officinalis" thumbnail="http://sochi-trip.cc/Dendrarium/Laurocerasus%20officinalis/thumbs/DSC02236.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Magnolia%20liliiflora/album.rss" title="Magnolia liliiflora" thumbnail="http://sochi-trip.cc/Dendrarium/Magnolia%20liliiflora/thumbs/DSC02083.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Nandina%20domestica/album.rss" title="Nandina domestica" thumbnail="http://sochi-trip.cc/Dendrarium/Nandina%20domestica/thumbs/DSC02129_.jpg" thumbnailWidth="499" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Parrotia%20persica/album.rss" title="Parrotia persica" thumbnail="http://sochi-trip.cc/Dendrarium/Parrotia%20persica/thumbs/DSC02172.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Pinus%20densiflora/album.rss" title="Pinus densiflora" thumbnail="http://sochi-trip.cc/Dendrarium/Pinus%20densiflora/thumbs/DSC02329.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Pinus%20echinata/album.rss" title="Pinus echinata" thumbnail="http://sochi-trip.cc/Dendrarium/Pinus%20echinata/thumbs/DSC02259.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/album.rss" title="Pinus wallichiana" thumbnail="http://sochi-trip.cc/Dendrarium/Pinus%20wallichiana/thumbs/DSC02135.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Pistacia%20lentiscus/album.rss" title="Pistacia lentiscus" thumbnail="http://sochi-trip.cc/Dendrarium/Pistacia%20lentiscus/thumbs/DSC02184.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Platycladus%20orientalis/album.rss" title="Platycladus orientalis" thumbnail="http://sochi-trip.cc/Dendrarium/Platycladus%20orientalis/thumbs/DSC02321.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Quercus%20glauca/album.rss" title="Quercus glauca" thumbnail="http://sochi-trip.cc/Dendrarium/Quercus%20glauca/thumbs/DSC02256.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Quercus%20myrsinifolia/album.rss" title="Quercus myrsinifolia" thumbnail="http://sochi-trip.cc/Dendrarium/Quercus%20myrsinifolia/thumbs/DSC02268.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Quercus%20suber/album.rss" title="Quercus suber" thumbnail="http://sochi-trip.cc/Dendrarium/Quercus%20suber/thumbs/DSC02263.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Quercus%20variabilis/album.rss" title="Quercus variabilis" thumbnail="http://sochi-trip.cc/Dendrarium/Quercus%20variabilis/thumbs/DSC02266.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Sequoia%20sempervirens/album.rss" title="Sequoia sempervirens" thumbnail="http://sochi-trip.cc/Dendrarium/Sequoia%20sempervirens/thumbs/DSC02141.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Sequoiadendron%20giganteum/album.rss" title="Sequoiadendron giganteum" thumbnail="http://sochi-trip.cc/Dendrarium/Sequoiadendron%20giganteum/thumbs/DSC02192.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Viburnum%20suspensum/album.rss" title="Viburnum suspensum" thumbnail="http://sochi-trip.cc/Dendrarium/Viburnum%20suspensum/thumbs/DSC02210.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/Viburnum%20tinus/album.rss" title="Viburnum tinus" thumbnail="http://sochi-trip.cc/Dendrarium/Viburnum%20tinus/thumbs/DSC02228.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    </channel>
+</rss>

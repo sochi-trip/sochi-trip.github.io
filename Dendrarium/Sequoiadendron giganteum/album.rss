@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Sequoiadendron giganteum</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Dendrarium/Sequoiadendron%20giganteum/</jalbum:absolutePath>
+        <item>
+            <title>DSC02191</title>
+            <link>http://sochi-trip.cc/Dendrarium/Sequoiadendron%20giganteum/slides/DSC02191.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:10:58 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Dendrarium/Sequoiadendron%20giganteum/thumbs/DSC02191.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Dendrarium/Sequoiadendron%20giganteum/slides/DSC02191.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 11:13:01 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02191.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02192</title>
+            <link>http://sochi-trip.cc/Dendrarium/Sequoiadendron%20giganteum/slides/DSC02192.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:10:58 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Dendrarium/Sequoiadendron%20giganteum/thumbs/DSC02192.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Dendrarium/Sequoiadendron%20giganteum/slides/DSC02192.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 11:13:01 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02192.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02193</title>
+            <link>http://sochi-trip.cc/Dendrarium/Sequoiadendron%20giganteum/slides/DSC02193.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:10:58 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Dendrarium/Sequoiadendron%20giganteum/thumbs/DSC02193.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Dendrarium/Sequoiadendron%20giganteum/slides/DSC02193.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 11:13:22 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02193.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Auricularia mesenterica</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/</jalbum:absolutePath>
+        <item>
+            <title>DSC02423</title>
+            <link>http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/slides/DSC02423.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:17:47 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/thumbs/DSC02423.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/slides/DSC02423.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 01 Apr 2018 10:35:50 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02423.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02424</title>
+            <link>http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/slides/DSC02424.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:17:47 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/thumbs/DSC02424.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/slides/DSC02424.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 01 Apr 2018 10:36:08 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02424.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02425</title>
+            <link>http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/slides/DSC02425.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:17:47 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/thumbs/DSC02425.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/slides/DSC02425.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 01 Apr 2018 10:35:50 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02425.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02426</title>
+            <link>http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/slides/DSC02426.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:17:47 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/thumbs/DSC02426.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/slides/DSC02426.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 01 Apr 2018 10:36:32 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02426.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02427</title>
+            <link>http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/slides/DSC02427.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:17:47 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/thumbs/DSC02427.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/slides/DSC02427.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 01 Apr 2018 10:36:32 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02427.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02428</title>
+            <link>http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/slides/DSC02428.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:17:47 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/thumbs/DSC02428.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/slides/DSC02428.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 01 Apr 2018 10:36:55 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02428.JPG</guid>
+        </item>
+    </channel>
+</rss>

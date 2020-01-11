@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fungi</title>
+   	<link>..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Fungi/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/album.rss" title="Auricularia mesenterica" thumbnail="http://sochi-trip.cc/Fungi/Auricularia%20mesenterica/thumbs/DSC02423.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Fungi/Coprinellus%20micaceus/album.rss" title="Coprinellus micaceus" thumbnail="http://sochi-trip.cc/Fungi/Coprinellus%20micaceus/thumbs/DSC02530.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Fungi/Mutinus%20raveneli/album.rss" title="Mutinus raveneli" thumbnail="http://sochi-trip.cc/Fungi/Mutinus%20raveneli/thumbs/DSC02398.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Fungi/Trametes%20versicolor/album.rss" title="Trametes versicolor" thumbnail="http://sochi-trip.cc/Fungi/Trametes%20versicolor/thumbs/DSC02523.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    </channel>
+</rss>

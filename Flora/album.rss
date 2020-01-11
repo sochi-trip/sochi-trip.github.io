@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Flora</title>
+   	<link>..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Flora/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Ajuga%20genevensis/album.rss" title="Ajuga genevensis" thumbnail="http://sochi-trip.cc/Flora/Ajuga%20genevensis/thumbs/DSC02659.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Ajuga%20orientalis/album.rss" title="Ajuga orientalis" thumbnail="http://sochi-trip.cc/Flora/Ajuga%20orientalis/thumbs/DSC02655.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Arabis%20nordmanniana/album.rss" title="Arabis nordmanniana" thumbnail="http://sochi-trip.cc/Flora/Arabis%20nordmanniana/thumbs/DSC02589.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Arum%20italicum/album.rss" title="Arum italicum" thumbnail="http://sochi-trip.cc/Flora/Arum%20italicum/thumbs/DSC02576.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Asplenium%20scolopendrium/album.rss" title="Asplenium scolopendrium" thumbnail="http://sochi-trip.cc/Flora/Asplenium%20scolopendrium/thumbs/DSC02383.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Conocephalum%20conicum/album.rss" title="Conocephalum conicum" thumbnail="http://sochi-trip.cc/Flora/Conocephalum%20conicum/thumbs/DSC02373.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/album.rss" title="Dentaria quinquefolia" thumbnail="http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/thumbs/DSC02337.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Doronicum%20orientale/album.rss" title="Doronicum orientale" thumbnail="http://sochi-trip.cc/Flora/Doronicum%20orientale/thumbs/DSC02643.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Duchesnea%20indica/album.rss" title="Duchesnea indica" thumbnail="http://sochi-trip.cc/Flora/Duchesnea%20indica/thumbs/DSC02644.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Epimedium%20colchicum/album.rss" title="Epimedium colchicum" thumbnail="http://sochi-trip.cc/Flora/Epimedium%20colchicum/thumbs/DSC02471.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/album.rss" title="Euphorbia amygdaloides" thumbnail="http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/thumbs/DSC02361.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Ficaria%20verna/album.rss" title="Ficaria verna" thumbnail="http://sochi-trip.cc/Flora/Ficaria%20verna/thumbs/DSC02592.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Geranium%20robertianum/album.rss" title="Geranium robertianum" thumbnail="http://sochi-trip.cc/Flora/Geranium%20robertianum/thumbs/DSC02509.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Helleborus%20caucasicus/album.rss" title="Helleborus caucasicus" thumbnail="http://sochi-trip.cc/Flora/Helleborus%20caucasicus/thumbs/DSC02244.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Lathyrus%20vernus/album.rss" title="Lathyrus vernus" thumbnail="http://sochi-trip.cc/Flora/Lathyrus%20vernus/thumbs/DSC02435.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Omphalodes%20cappadocica/album.rss" title="Omphalodes cappadocica" thumbnail="http://sochi-trip.cc/Flora/Omphalodes%20cappadocica/thumbs/DSC02380.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Osmanthus%20heterophyllus/album.rss" title="Osmanthus heterophyllus" thumbnail="http://sochi-trip.cc/Flora/Osmanthus%20heterophyllus/thumbs/DSC02370.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Paeonia%20caucasica/album.rss" title="Paeonia caucasica" thumbnail="http://sochi-trip.cc/Flora/Paeonia%20caucasica/thumbs/DSC02417.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Paris%20incompleta/album.rss" title="Paris incompleta" thumbnail="http://sochi-trip.cc/Flora/Paris%20incompleta/thumbs/DSC02446.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Potentilla%20micrantha/album.rss" title="Potentilla micrantha" thumbnail="http://sochi-trip.cc/Flora/Potentilla%20micrantha/thumbs/DSC02648.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Ranunculus%20cappadocicus/album.rss" title="Ranunculus cappadocicus" thumbnail="http://sochi-trip.cc/Flora/Ranunculus%20cappadocicus/thumbs/DSC02455.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Scrophularia%20scopolii/album.rss" title="Scrophularia scopolii" thumbnail="http://sochi-trip.cc/Flora/Scrophularia%20scopolii/thumbs/DSC02664.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Streptopus%20amplexifolius/album.rss" title="Streptopus amplexifolius" thumbnail="http://sochi-trip.cc/Flora/Streptopus%20amplexifolius/thumbs/DSC02698.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Symphytum%20grandiflorum/album.rss" title="Symphytum grandiflorum" thumbnail="http://sochi-trip.cc/Flora/Symphytum%20grandiflorum/thumbs/DSC02390.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Taxodium%20distichum/album.rss" title="Taxodium distichum" thumbnail="http://sochi-trip.cc/Flora/Taxodium%20distichum/thumbs/DSC02355.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Veronica%20filiformis/album.rss" title="Veronica filiformis" thumbnail="http://sochi-trip.cc/Flora/Veronica%20filiformis/thumbs/DSC02407.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/Vinca%20pubescens/album.rss" title="Vinca pubescens" thumbnail="http://sochi-trip.cc/Flora/Vinca%20pubescens/thumbs/DSC02510.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    </channel>
+</rss>

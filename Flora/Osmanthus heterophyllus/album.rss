@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Osmanthus heterophyllus</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Flora/Osmanthus%20heterophyllus/</jalbum:absolutePath>
+        <item>
+            <title>DSC02369</title>
+            <link>http://sochi-trip.cc/Flora/Osmanthus%20heterophyllus/slides/DSC02369.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:15:48 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Osmanthus%20heterophyllus/thumbs/DSC02369.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Osmanthus%20heterophyllus/slides/DSC02369.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 14:53:49 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02369.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02370</title>
+            <link>http://sochi-trip.cc/Flora/Osmanthus%20heterophyllus/slides/DSC02370.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:15:48 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Osmanthus%20heterophyllus/thumbs/DSC02370.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Osmanthus%20heterophyllus/slides/DSC02370.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 14:53:53 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02370.JPG</guid>
+        </item>
+    </channel>
+</rss>

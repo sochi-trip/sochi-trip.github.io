@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Dentaria quinquefolia</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/</jalbum:absolutePath>
+        <item>
+            <title>DSC02337</title>
+            <link>http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/slides/DSC02337.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:14:31 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/thumbs/DSC02337.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/slides/DSC02337.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 12:34:47 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02337.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02338</title>
+            <link>http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/slides/DSC02338.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:14:31 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/thumbs/DSC02338.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/slides/DSC02338.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 12:34:56 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02338.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02339</title>
+            <link>http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/slides/DSC02339.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:14:31 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/thumbs/DSC02339.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/slides/DSC02339.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 12:35:11 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02339.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02340</title>
+            <link>http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/slides/DSC02340.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:14:31 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/thumbs/DSC02340.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/slides/DSC02340.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 12:35:24 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02340.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02341</title>
+            <link>http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/slides/DSC02341.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:14:31 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/thumbs/DSC02341.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Dentaria%20quinquefolia/slides/DSC02341.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 12:35:40 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02341.JPG</guid>
+        </item>
+    </channel>
+</rss>

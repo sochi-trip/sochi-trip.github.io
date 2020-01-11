@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fauna</title>
+   	<link>..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Fauna/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Fauna/Black%20swan%20%28Cygnus%20atratus%29/album.rss" title="Black swan (Cygnus atratus)" thumbnail="http://sochi-trip.cc/Fauna/Black%20swan%20%28Cygnus%20atratus%29/thumbs/DSC02305.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/album.rss" title="Chicken (Gallus gallus domesticus)" thumbnail="http://sochi-trip.cc/Fauna/Chicken%20%28Gallus%20gallus%20domesticus%29/thumbs/DSC02287.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Fauna/Monochamus%20urussovi/album.rss" title="Monochamus urussovi" thumbnail="http://sochi-trip.cc/Fauna/Monochamus%20urussovi/thumbs/DSC02695.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Fauna/Mute%20swan%20%28Cygnus%20olor%29/album.rss" title="Mute swan (Cygnus olor)" thumbnail="http://sochi-trip.cc/Fauna/Mute%20swan%20%28Cygnus%20olor%29/thumbs/DSC02281.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+        <item>
+            <title>DSC02395</title>
+            <link>http://sochi-trip.cc/Fauna/slides/DSC02395.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:12:05 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fauna/thumbs/DSC02395.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fauna/slides/DSC02395.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 15:28:19 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02395.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02553</title>
+            <link>http://sochi-trip.cc/Fauna/slides/DSC02553.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:12:05 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fauna/thumbs/DSC02553.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fauna/slides/DSC02553.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 01 Apr 2018 13:12:57 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02553.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02642</title>
+            <link>http://sochi-trip.cc/Fauna/slides/DSC02642.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:12:05 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fauna/thumbs/DSC02642.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fauna/slides/DSC02642.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 02 Apr 2018 11:10:33 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02642.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02676</title>
+            <link>http://sochi-trip.cc/Fauna/slides/DSC02676.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:12:05 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Fauna/thumbs/DSC02676.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Fauna/slides/DSC02676.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Mon, 02 Apr 2018 12:41:24 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02676.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Euphorbia amygdaloides</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/</jalbum:absolutePath>
+        <item>
+            <title>DSC02361</title>
+            <link>http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/slides/DSC02361.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:15:02 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/thumbs/DSC02361.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/slides/DSC02361.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 14:52:31 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02361.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02362</title>
+            <link>http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/slides/DSC02362.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:15:02 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/thumbs/DSC02362.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/slides/DSC02362.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 14:52:35 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02362.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02363</title>
+            <link>http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/slides/DSC02363.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:15:02 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/thumbs/DSC02363.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/slides/DSC02363.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 14:52:41 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02363.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02364</title>
+            <link>http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/slides/DSC02364.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:15:02 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/thumbs/DSC02364.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/slides/DSC02364.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 14:52:45 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02364.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02365</title>
+            <link>http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/slides/DSC02365.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:15:02 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/thumbs/DSC02365.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Euphorbia%20amygdaloides/slides/DSC02365.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 31 Mar 2018 14:52:51 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC02365.JPG</guid>
+        </item>
+    </channel>
+</rss>
