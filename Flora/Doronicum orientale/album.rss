@@ -5,17 +5,17 @@
     <channel>
         <title>Doronicum orientale</title>
    	<link>../..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://sochi-trip.cc/Flora/Doronicum%20orientale/</jalbum:absolutePath>
+        <jalbum:absolutePath>https://sochi-trip.cc/Flora/Doronicum%20orientale/</jalbum:absolutePath>
         <item>
             <title>DSC02643</title>
-            <link>http://sochi-trip.cc/Flora/Doronicum%20orientale/slides/DSC02643.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 20:14:38 +0200</pubDate>
+            <link>https://sochi-trip.cc/Flora/Doronicum%20orientale/slides/DSC02643.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:06:01 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://sochi-trip.cc/Flora/Doronicum%20orientale/thumbs/DSC02643.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Doronicum%20orientale/slides/DSC02643.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://sochi-trip.cc/Flora/Doronicum%20orientale/thumbs/DSC02643.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://sochi-trip.cc/Flora/Doronicum%20orientale/slides/DSC02643.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 02 Apr 2018 11:11:13 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC02643.JPG</guid>
         </item>

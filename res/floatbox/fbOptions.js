@@ -32,12 +32,15 @@ global: {
 	navType:'overlay',
 	navOverlayWidth:45,
 	autoFitSpace:15,
-	enableWrap:false,
-	autoEndVideo:false,
+	doSlideshow:true,
+	slideInterval:5,
+	startPaused:true,
+	afterSlideshow:'exit',
 	autoPlayVideo:false,
 	addVideoThumb:false
 },
 mobile: {
+	padding:0,
 	minBoxWidth:140,
 	showItemNumber:false,
 	strictCentering:false,

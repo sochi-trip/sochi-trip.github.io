@@ -5,28 +5,28 @@
     <channel>
         <title>Ficaria verna</title>
    	<link>../..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://sochi-trip.cc/Flora/Ficaria%20verna/</jalbum:absolutePath>
+        <jalbum:absolutePath>https://sochi-trip.cc/Flora/Ficaria%20verna/</jalbum:absolutePath>
         <item>
             <title>DSC02590</title>
-            <link>http://sochi-trip.cc/Flora/Ficaria%20verna/slides/DSC02590.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 20:15:10 +0200</pubDate>
+            <link>https://sochi-trip.cc/Flora/Ficaria%20verna/slides/DSC02590.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:06:01 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://sochi-trip.cc/Flora/Ficaria%20verna/thumbs/DSC02590.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Ficaria%20verna/slides/DSC02590.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://sochi-trip.cc/Flora/Ficaria%20verna/thumbs/DSC02590.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://sochi-trip.cc/Flora/Ficaria%20verna/slides/DSC02590.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 02 Apr 2018 10:32:47 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC02590.JPG</guid>
         </item>
         <item>
             <title>DSC02592</title>
-            <link>http://sochi-trip.cc/Flora/Ficaria%20verna/slides/DSC02592.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 20:15:10 +0200</pubDate>
+            <link>https://sochi-trip.cc/Flora/Ficaria%20verna/slides/DSC02592.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:06:01 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://sochi-trip.cc/Flora/Ficaria%20verna/thumbs/DSC02592.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://sochi-trip.cc/Flora/Ficaria%20verna/slides/DSC02592.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://sochi-trip.cc/Flora/Ficaria%20verna/thumbs/DSC02592.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://sochi-trip.cc/Flora/Ficaria%20verna/slides/DSC02592.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 02 Apr 2018 10:34:27 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC02592.JPG</guid>
         </item>

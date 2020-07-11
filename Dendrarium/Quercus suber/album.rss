@@ -5,28 +5,28 @@
     <channel>
         <title>Quercus suber</title>
    	<link>../..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://sochi-trip.cc/Dendrarium/Quercus%20suber/</jalbum:absolutePath>
+        <jalbum:absolutePath>https://sochi-trip.cc/Dendrarium/Quercus%20suber/</jalbum:absolutePath>
         <item>
             <title>DSC02263</title>
-            <link>http://sochi-trip.cc/Dendrarium/Quercus%20suber/slides/DSC02263.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 20:10:36 +0200</pubDate>
+            <link>https://sochi-trip.cc/Dendrarium/Quercus%20suber/slides/DSC02263.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:06:01 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://sochi-trip.cc/Dendrarium/Quercus%20suber/thumbs/DSC02263.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://sochi-trip.cc/Dendrarium/Quercus%20suber/slides/DSC02263.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https://sochi-trip.cc/Dendrarium/Quercus%20suber/thumbs/DSC02263.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://sochi-trip.cc/Dendrarium/Quercus%20suber/slides/DSC02263.JPG" width="1260" height="1680"/>
             <jalbum:exif originalDate="Sat, 31 Mar 2018 12:01:20 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC02263.JPG</guid>
         </item>
         <item>
             <title>DSC02264</title>
-            <link>http://sochi-trip.cc/Dendrarium/Quercus%20suber/slides/DSC02264.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 20:10:36 +0200</pubDate>
+            <link>https://sochi-trip.cc/Dendrarium/Quercus%20suber/slides/DSC02264.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:06:01 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://sochi-trip.cc/Dendrarium/Quercus%20suber/thumbs/DSC02264.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://sochi-trip.cc/Dendrarium/Quercus%20suber/slides/DSC02264.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https://sochi-trip.cc/Dendrarium/Quercus%20suber/thumbs/DSC02264.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://sochi-trip.cc/Dendrarium/Quercus%20suber/slides/DSC02264.JPG" width="1260" height="1680"/>
             <jalbum:exif originalDate="Sat, 31 Mar 2018 12:01:32 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC02264.JPG</guid>
         </item>

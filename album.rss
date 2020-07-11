@@ -5,68 +5,70 @@
     <channel>
         <title>Sochi 2018</title>
    	<link>.</link>
-        <generator>jAlbum 19.2</generator>
-   		<description>Sochi, Russian federation. Spring 2018.</description>
-        <jalbum:absolutePath>http://sochi-trip.cc/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Caves/album.rss" title="Caves" thumbnail="http://sochi-trip.cc/Caves/thumbs/DSC02611.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Dendrarium/album.rss" title="Dendrarium" thumbnail="http://sochi-trip.cc/Dendrarium/Nandina%20domestica/thumbs/DSC02129_.jpg" thumbnailWidth="499" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Fauna/album.rss" title="Fauna" thumbnail="http://sochi-trip.cc/Fauna/Black%20swan%20%28Cygnus%20atratus%29/thumbs/DSC02305.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Flora/album.rss" title="Flora" thumbnail="http://sochi-trip.cc/Flora/Epimedium%20colchicum/thumbs/DSC02471.JPG" thumbnailWidth="270" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Fungi/album.rss" title="Fungi" thumbnail="http://sochi-trip.cc/Fungi/Mutinus%20raveneli/thumbs/DSC02398.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Mountains/album.rss" title="Mountains" thumbnail="http://sochi-trip.cc/Mountains/thumbs/DSC02484.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://sochi-trip.cc/Waterfalls/album.rss" title="Waterfalls" thumbnail="http://sochi-trip.cc/Waterfalls/thumbs/DSC02561.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+        <generator>jAlbum 20.2</generator>
+   		<description>Sochi, Russian federation. Spring 2018.
+
+Caves, Dendrarium, Fauna, Flora, Fungi, Mountains, Waterfalls.</description>
+        <jalbum:absolutePath>https://sochi-trip.cc/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://sochi-trip.cc/Caves/album.rss" title="Caves" thumbnail="https://sochi-trip.cc/Caves/thumbs/DSC02611.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://sochi-trip.cc/Dendrarium/album.rss" title="Dendrarium" thumbnail="https://sochi-trip.cc/Dendrarium/Nandina%20domestica/thumbs/DSC02129_.jpg" thumbnailWidth="499" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://sochi-trip.cc/Fauna/album.rss" title="Fauna" thumbnail="https://sochi-trip.cc/Fauna/Black%20swan%20%28Cygnus%20atratus%29/thumbs/DSC02305.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://sochi-trip.cc/Flora/album.rss" title="Flora" thumbnail="https://sochi-trip.cc/Flora/Epimedium%20colchicum/thumbs/DSC02471.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://sochi-trip.cc/Fungi/album.rss" title="Fungi" thumbnail="https://sochi-trip.cc/Fungi/Mutinus%20raveneli/thumbs/DSC02398.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://sochi-trip.cc/Mountains/album.rss" title="Mountains" thumbnail="https://sochi-trip.cc/Mountains/thumbs/DSC02484.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://sochi-trip.cc/Waterfalls/album.rss" title="Waterfalls" thumbnail="https://sochi-trip.cc/Waterfalls/thumbs/DSC02561.JPG" thumbnailWidth="270" thumbnailHeight="360" />
         <item>
             <title>DSC02178</title>
-            <link>http://sochi-trip.cc/slides/DSC02178.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 20:18:47 +0200</pubDate>
+            <link>https://sochi-trip.cc/slides/DSC02178.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:06:01 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://sochi-trip.cc/thumbs/DSC02178.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://sochi-trip.cc/slides/DSC02178.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://sochi-trip.cc/thumbs/DSC02178.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://sochi-trip.cc/slides/DSC02178.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Sat, 31 Mar 2018 11:08:46 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC02178.JPG</guid>
         </item>
         <item>
             <title>DSC02179</title>
-            <link>http://sochi-trip.cc/slides/DSC02179.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 20:18:47 +0200</pubDate>
+            <link>https://sochi-trip.cc/slides/DSC02179.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:06:01 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://sochi-trip.cc/thumbs/DSC02179.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://sochi-trip.cc/slides/DSC02179.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https://sochi-trip.cc/thumbs/DSC02179.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://sochi-trip.cc/slides/DSC02179.JPG" width="1260" height="1680"/>
             <jalbum:exif originalDate="Sat, 31 Mar 2018 11:08:53 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC02179.JPG</guid>
         </item>
         <item>
             <title>DSC02216</title>
-            <link>http://sochi-trip.cc/slides/DSC02216.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 20:18:47 +0200</pubDate>
+            <link>https://sochi-trip.cc/slides/DSC02216.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:06:01 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://sochi-trip.cc/thumbs/DSC02216.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://sochi-trip.cc/slides/DSC02216.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https://sochi-trip.cc/thumbs/DSC02216.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://sochi-trip.cc/slides/DSC02216.JPG" width="1260" height="1680"/>
             <jalbum:exif originalDate="Sat, 31 Mar 2018 11:22:06 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC02216.JPG</guid>
         </item>
         <item>
             <title>DSC02306</title>
-            <link>http://sochi-trip.cc/slides/DSC02306.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 20:18:47 +0200</pubDate>
+            <link>https://sochi-trip.cc/slides/DSC02306.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:06:01 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://sochi-trip.cc/thumbs/DSC02306.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://sochi-trip.cc/slides/DSC02306.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https://sochi-trip.cc/thumbs/DSC02306.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://sochi-trip.cc/slides/DSC02306.JPG" width="1260" height="1680"/>
             <jalbum:exif originalDate="Sat, 31 Mar 2018 12:19:07 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC02306.JPG</guid>
         </item>
         <item>
             <title>DSC02307</title>
-            <link>http://sochi-trip.cc/slides/DSC02307.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 20:18:47 +0200</pubDate>
+            <link>https://sochi-trip.cc/slides/DSC02307.JPG</link>
+            <pubDate>Sat, 11 Jan 2020 20:06:01 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://sochi-trip.cc/thumbs/DSC02307.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://sochi-trip.cc/slides/DSC02307.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https://sochi-trip.cc/thumbs/DSC02307.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="https://sochi-trip.cc/slides/DSC02307.JPG" width="1260" height="1680"/>
             <jalbum:exif originalDate="Sat, 31 Mar 2018 12:19:10 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
             <guid isPermaLink="false">slides/DSC02307.JPG</guid>
         </item>
